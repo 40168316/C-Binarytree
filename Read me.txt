@@ -1,0 +1,6 @@
+This program was written and developed in Eclipse and compiled by Developer Command Prompt for VS2013.
+
+To use the makefile, type in 'nmake all' into the command prompt and it will load the program.
+
+For my program I decided to add a menu system so the user finds it easier to call functions. The user can call multiple functions is a single run which is exited by entering -1.
+

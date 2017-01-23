@@ -1,0 +1,2 @@
+How many numbers do you want to enter? 10
+10, 12, 4, 7, 31, 19, 1, 0, 9, 17
